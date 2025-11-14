@@ -5,7 +5,6 @@ I'm a developer from **Norway**, currently studying and programming in **Java**.
 
 ### Tools & Tech
 - **Java**
-- **React, TypeScript, Next.js**
 - **MySQL, MongoDB**
 
 ---
