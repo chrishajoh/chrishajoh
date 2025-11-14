@@ -1,4 +1,4 @@
-### Hi there ☝️
+### Hello there ☝️
 I'm a developer from **Norway**, currently studying and programming in **Java**.
 
 ---
