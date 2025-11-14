@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there ☝️
+I'm a developer from **Norway**, currently studying and programming in **Java**.
 
-<!--
-**chrishajoh/chrishajoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Tools & Tech
+- **Java**
+- **React, TypeScript, Next.js**
+- **MySQL, MongoDB**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+- ☕ I'm definitely a coffee person  
+- ⚽ I enjoy playing soccer  
+- 💻 I code in my spare time  
